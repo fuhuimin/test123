@@ -8,7 +8,5 @@ console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.
 
 console.log('sss')console.log('sss')console.log('sss')
 console.log('sss')console.log('sss')console.log('sss')
-console.log('sss')console.log('sss')console.log('sss')
-console.log('sss')console.log('sss')console.log('sss')
 
 
