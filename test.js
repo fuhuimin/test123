@@ -1,6 +1,6 @@
 
 console.log('sss')
-s')
+s')方法
 g('sss')
 og('sss')console.log('sss')
 console.log('sss'555)console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.log('sss')
