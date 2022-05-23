@@ -1,6 +1,6 @@
 
 console.log('sss')
-console.log('sss')
+s')
 g('sss')
 console.log('sss')console.log('sss')console.log('sss')
 console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.log('sss')
