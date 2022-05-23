@@ -2,7 +2,7 @@
 console.log('sss')
 s')
 g('sss')
-console.log('sss')console.log('sss')console.log('sss')
+og('sss')console.log('sss')
 console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.log('sss')console.log('sss')
 
 console.log('sss')console.log('sss')console.log('sss')
